@@ -1,2 +1,1 @@
 xolution = x solution
- jammychan
